@@ -255,6 +255,3 @@ Enrich your forecasts further by integrating other data sources you deem relevan
 #### Ongoing training:
 Don't forget that the quality of your forecasts depends to a large extent on the quality of your data and the model's ability to adapt to changes in the market. Plan a continuous training process to keep the model up to date, periodically reassessing performance and adjusting parameters as necessary.
 
-### License
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE.txt) file for details
-
